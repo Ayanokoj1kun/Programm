@@ -1,4 +1,10 @@
-//Ni
+//Ichi 1
 int a = int.Parse(Console.ReadLine());
-int b = int.Parse(Console.ReadLine());
-Console.WriteLine(Math.Pow(a + b, 2));
+if (a%3 == 0)
+{
+    Console.WriteLine("TAK");
+}
+else
+{
+    Console.WriteLine("NIE");
+}

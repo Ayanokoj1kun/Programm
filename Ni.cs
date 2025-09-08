@@ -26,3 +26,13 @@ else
 {
     Console.WriteLine("Nie jest podzielna przez 17");
 }
+//San 3
+int a = int.Parse(Console.ReadLine());
+if (a >= 18)
+{
+    Console.WriteLine("Jesteś pełnoletni");
+}
+else
+{
+    Console.WriteLine("Jesteś nie pełnoletni");
+}

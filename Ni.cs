@@ -36,3 +36,14 @@ else
 {
     Console.WriteLine("Jesteś nie pełnoletni");
 }
+//Yon 4
+Console.WriteLine("Podaj ciężar w tonach i dostaniesz odpowiedż, czy możesz przyjechać.");
+int a = int.Parse(Console.ReadLine());
+if (a > 20)
+{
+    Console.WriteLine("NIE");
+}
+else
+{
+    Console.WriteLine("TAK");
+}

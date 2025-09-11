@@ -47,3 +47,43 @@ else
 {
     Console.WriteLine("TAK");
 }
+/*
+int a = int.Parse(Console.ReadLine());
+int p = int.Parse(Console.ReadLine());
+if ((Math.Pow(a, p) - a) % p == 0)
+    Console.WriteLine("TAK");
+else
+    Console.WriteLine("NIE");
+
+int a = int.Parse(Console.ReadLine());
+int b = int.Parse(Console.ReadLine());
+if ((a + b) % 2 == 0)
+    Console.WriteLine("Tak");
+else
+    Console.WriteLine("Nie");
+
+int a = int.Parse(Console.ReadLine());
+int b = int.Parse(Console.ReadLine());
+if ((a + b) / 2 > Math.Sqrt(a * b))
+    Console.WriteLine("Tak");
+else
+    Console.WriteLine("Nie");
+
+int a = int.Parse(Console.ReadLine());
+int b = int.Parse(Console.ReadLine());
+int c = int.Parse(Console.ReadLine());
+if (a == b)
+    Console.WriteLine("Tak");
+if (a == c)
+    Console.WriteLine("Tak");
+if (b == c)
+    Console.WriteLine("Tak");
+else
+    Console.WriteLine("Nie");
+*/
+// 1 10 4 3
+int a = int.Parse(Console.ReadLine());
+int b = int.Parse(Console.ReadLine());
+int c = int.Parse(Console.ReadLine());
+int d = int.Parse(Console.ReadLine());
+if ()
